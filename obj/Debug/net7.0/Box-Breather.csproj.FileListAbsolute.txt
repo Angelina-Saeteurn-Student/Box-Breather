@@ -1,0 +1,15 @@
+/workspaces/Box-Breather/obj/Debug/net7.0/Box-Breather.csproj.AssemblyReference.cache
+/workspaces/Box-Breather/obj/Debug/net7.0/Box-Breather.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Box-Breather/obj/Debug/net7.0/Box-Breather.AssemblyInfoInputs.cache
+/workspaces/Box-Breather/obj/Debug/net7.0/Box-Breather.AssemblyInfo.cs
+/workspaces/Box-Breather/obj/Debug/net7.0/Box-Breather.csproj.CoreCompileInputs.cache
+/workspaces/Box-Breather/bin/Debug/net7.0/Box-Breather
+/workspaces/Box-Breather/bin/Debug/net7.0/Box-Breather.deps.json
+/workspaces/Box-Breather/bin/Debug/net7.0/Box-Breather.runtimeconfig.json
+/workspaces/Box-Breather/bin/Debug/net7.0/Box-Breather.dll
+/workspaces/Box-Breather/bin/Debug/net7.0/Box-Breather.pdb
+/workspaces/Box-Breather/obj/Debug/net7.0/Box-Breather.dll
+/workspaces/Box-Breather/obj/Debug/net7.0/refint/Box-Breather.dll
+/workspaces/Box-Breather/obj/Debug/net7.0/Box-Breather.pdb
+/workspaces/Box-Breather/obj/Debug/net7.0/Box-Breather.genruntimeconfig.cache
+/workspaces/Box-Breather/obj/Debug/net7.0/ref/Box-Breather.dll
