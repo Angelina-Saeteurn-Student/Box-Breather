@@ -25,14 +25,15 @@ public class Program
                             "Mr.Luyk", "Robot"};
         int num = rand.Next(0, names.Length);
         string chosen = names[num];
-        num = rand.Next(0, 20);
-        Console.Write("Selecting the Box Breather");
+        num = rand.Next(5, 20);
+        Console.Write("Selecting the Box Breather:");
         for (int i = num; i >= 0; i--)
         {
-            Console.Write(".");
+            Console.Write(" " + i);
             Thread.Sleep(1000);
         }
-
+        
+        Console.WriteLine("");
         return chosen;
     }
     public static void RobotBreathing()
