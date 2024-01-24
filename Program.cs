@@ -1,6 +1,5 @@
 ﻿using System.Threading;
 
-
 public class Program
 
 {
@@ -26,10 +25,10 @@ public class Program
         int num = rand.Next(0, names.Length);
         string chosen = names[num];
         num = rand.Next(5, 20);
-        Console.Write("Selecting the Box Breather:");
+        Console.Write("Selecting the Box Breather");
         for (int i = num; i >= 0; i--)
         {
-            Console.Write(" " + i);
+            Console.Write(".");
             Thread.Sleep(1000);
         }
         

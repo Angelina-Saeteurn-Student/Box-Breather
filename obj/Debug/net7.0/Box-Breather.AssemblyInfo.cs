@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Box-Breather")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c46284d26b516fe2860c75666c74f0759333176")]
 [assembly: System.Reflection.AssemblyProductAttribute("Box-Breather")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Box-Breather")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
